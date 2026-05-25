@@ -85,4 +85,4 @@ address to satisfy all host requirements with minimal address waste.
 • which routers used static routing
 • which part of the network used dynamic routing
 • which router used both static and dynamic routing
-3
+
